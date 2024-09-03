@@ -1,0 +1,15 @@
+
+
+let user={
+  age:"john",
+  surname:"smith",
+
+}
+
+alert(user.name);
+alert(user.surname);
+
+user.name=user.surname;
+
+delete[user.name];
+
